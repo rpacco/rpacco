@@ -1,4 +1,4 @@
-Hello, I'm Rafael 👋
+# Hello, I'm **Rafael** 👋
 
 I'm a data scientist with experience in data analysis and machine learning. You can find my portfolio [here](https://github.com/rpacco?tab=repositories).
 
