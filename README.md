@@ -1,8 +1,8 @@
 # Hello, I'm **Rafael** 👋
 
-I'm a data scientist with experience in data analysis and machine learning. You can find my portfolio [here](https://github.com/rpacco?tab=repositories).
+I'm a data scientist looking for professional opportunities. You can find my portfolio [here](https://github.com/rpacco?tab=repositories).
 
-Some of my studies are listed below:
+Some of my main studies are listed below:
 - [Momentum studies on Brazilian market](https://github.com/rpacco/momentum_studies) 🚀📈
 - [Telegram bot calculating momentum stocks](https://github.com/rpacco/momentum_bot) 🤖📈
 - [Brazilian cattle livestock, time series studies](https://github.com/rpacco/cattlebr_data) :brazil:🐂
@@ -17,16 +17,15 @@ Prior to my work in data science, I was an officer in the Brazilian Navy (Corps 
 
 # **Skills**
 
+    Python
+    Machine Learning
     Data Science
     Data Analysis
-    Machine Learning
-    Python
     SQL
-    NoSQL
-    Data Visualization
-    Financial Engineering
-    Portfolio Management
-    Risk Mitigation
+    Data Mining/Scrapping
+    Analytical Skills
+    Algorithms
+    Problem Solving
 
 # Contact Me
 
