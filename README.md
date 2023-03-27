@@ -5,6 +5,7 @@ I'm a data scientist looking for professional opportunities. You can find my por
 Some of my main studies are listed below:
 - [Momentum studies on Brazilian market](https://github.com/rpacco/momentum_studies) 🚀📈
 - [Telegram bot calculating momentum stocks](https://github.com/rpacco/momentum_bot) 🤖📈
+- [Credit Card Fraud detection](https://github.com/rpacco/fraud_detection) 💳⛔
 - [Brazilian cattle livestock, time series studies](https://github.com/rpacco/cattlebr_data) :brazil:🐂
 
 # **About Me**
