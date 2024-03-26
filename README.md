@@ -1,6 +1,6 @@
 # Hello, I'm **Rafael** 👋
 
-I'm a data scientist looking for professional opportunities. You can find my portfolio [here](https://github.com/rpacco?tab=repositories).
+I'm a data scientist looking for professional opportunities.
 
 Some of my main studies are listed below:
 - [Momentum studies on Brazilian market](https://github.com/rpacco/momentum_studies) 🚀📈
@@ -11,23 +11,27 @@ Some of my main studies are listed below:
 
 # **About Me**
 
-I'm continuously practicing data science concepts and analysis techniques in different case studies. I finished the Applied Data Science Lab at World Quant University (WQU), where I learned and practiced several tools and techniques related to data science, such as extracting data from SQL and NoSQL databases, cleaning and organizing datasets, building predictive models for regression and classification, creating visualizations to help explain data characteristics and model performance, and applying machine learning to business problems.
+I'm a data professional with a diversified background. I began my career as a mechanical engineer in the Brazilian Navy, contributing to the country's nuclear-powered submarine project. In this role, I crafted and reviewed technical documents, adhered to safety requirements, and participated in activity planning.
+
+Currently, I work as a freelancer, catering to clients primarily in Data Mining/Scrapping, extracting data from various sources and formats. I preprocess this data to ensure integrity and quality for client delivery.
 
 I also hold a master's degree in Financial Engineering from World Quant University, where I developed my understanding of the global financial market, analyzed financial data, designed programs using Python, applied stochastic calculations for pricing and derivatives hedging, and evaluated portfolios and their risk profiles using portfolio management theory. I also have experience in identifying risks related to the financial market and developing risk mitigation strategies, as well as evaluating current trends in the global financial scenario.
 
-Prior to my work in data science, I was an officer in the Brazilian Navy (Corps of Engineers), fully dedicated to the design development of the Brazilian nuclear submarine. As a member of the Propulsion sub-area, my main activities included preparing technical project documents, reviewing technical documents, preparing proposals for the purchase of equipment, aligning needs/demands with other sub-areas of the project, and planning activities.
-
 # **Skills**
 
-    Python
-    Machine Learning
-    Data Science
-    Data Analysis
-    SQL
-    Data Mining/Scrapping
-    Analytical Skills
-    Algorithms
-    Problem Solving
+✅ Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
+✅ Machine Learning
+✅ Data Analysis
+✅ SQL
+✅ Data Mining/Scrapping
+✅ Excel
+✅ Statistics, Hypothesis Testing
+
+✅ Technical Communication
+✅ Problem Solving
+✅ Teamwork
+✅ Adaptability
+✅ Strategic Planning
 
 # Contact Me
 
