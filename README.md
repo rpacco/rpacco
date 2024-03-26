@@ -19,19 +19,19 @@ I also hold a master's degree in Financial Engineering from World Quant Universi
 
 # **Skills**
 
-✅ Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
-✅ Machine Learning
-✅ Data Analysis
-✅ SQL
-✅ Data Mining/Scrapping
-✅ Excel
-✅ Statistics, Hypothesis Testing
+✅ Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)  
+✅ Machine Learning  
+✅ Data Analysis  
+✅ SQL  
+✅ Data Mining/Scrapping  
+✅ Excel  
+✅ Statistics, Hypothesis Testing  
 
-✅ Technical Communication
-✅ Problem Solving
-✅ Teamwork
-✅ Adaptability
-✅ Strategic Planning
+✅ Technical Communication  
+✅ Problem Solving  
+✅ Teamwork  
+✅ Adaptability  
+✅ Strategic Planning  
 
 # Contact Me
 
