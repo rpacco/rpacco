@@ -3,6 +3,7 @@
 I'm a data scientist looking for professional opportunities.
 
 Some of my main studies are listed below:
+- [Twitter/X bot for economic and gerenal data publishing](https://github.com/rpacco/morning-bot) 🤖📊
 - [Momentum studies on Brazilian market](https://github.com/rpacco/momentum_studies) 🚀📈
 - [Telegram bot calculating momentum stocks](https://github.com/rpacco/momentum_bot) 🤖📈
 - [Bankruptcy Prediction Model 🏭⛔](https://github.com/rpacco/bankruptsy_prediction)
